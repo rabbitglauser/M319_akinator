@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arkinator_game/1.0.0": {
+        "runtime": {
+          "Arkinator_game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arkinator_game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
